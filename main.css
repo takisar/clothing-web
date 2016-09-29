@@ -1,0 +1,74 @@
+@font-face
+{
+	font-family:yonkers;
+	src:url(font/Yonkers.ttf);
+}
+
+*
+{
+    margin:0;
+	padding:0;
+}
+
+body
+{
+	background-color: #fcfccc;
+}
+
+#container
+{
+	max-width:959px;
+	margin:0 auto;
+}
+
+header
+{
+    margin-top: 45px;
+}
+
+header h1
+{
+    margin-left: 420px;
+    font-family: yonkers;
+}
+
+#menu ul li
+{
+	list-style:none;
+	float:left;
+	position:relative;
+    margin-bottom:0px;
+    margin-left:82px;
+    margin-top:80px;
+    margin-right:81px;
+}
+
+#menu ul li a
+{
+    color:black;
+	text-decoration:none;
+	font-family:yonkers;
+    font-size: 25px;
+}
+
+main img
+{
+    margin-top:80px;
+    margin-left:25px;
+}
+
+#footerl
+{
+    float:left;
+}
+
+#footerl h3
+{
+    font-family: yonkers;
+}
+
+
+#footerr
+{
+    float:right;
+}
